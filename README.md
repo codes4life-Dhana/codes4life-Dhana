@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Dhanasri Manyam</h1>
 
-<p align="center">
+
   🌟 B.Tech student in Artificial Intelligence & Machine Learning (AIML)  
   
   💻 Aspiring Software Engineer | 🎯 Passionate Pythonista   
