@@ -50,11 +50,11 @@
 
 
 
-## 💡 My favorite Quote --
-> “I believe in building small today for something big tomorrow.” ✨
+### 💡 My favorite Quote --
+> ##“I believe in building small today for something big tomorrow.” ✨
 
-## 🎯 My_policy :
-> ✨ "Don’t stop until you’re proud."
+### 🎯 My_policy :
+> ##✨ "Don’t stop until you’re proud."
 
 
 
