@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Dhanasri Manyam</h1>
 
 <p align="center">
-  🌟 B.Tech student in Artificial Intelligence & Machine Learning (AIML)  
-  💻 Aspiring Software Engineer | 🎯 Passionate Pythonista  
-  🌱 Currently learning Python & Data Structures (DSA)  
+  🌟 B.Tech student in Artificial Intelligence & Machine Learning (AIML)  \n
+  💻 Aspiring Software Engineer | 🎯 Passionate Pythonista  \n
+  🌱 Currently learning Python & Data Structures (DSA)  \n
   🔨 Building real-world projects that solve real-life problems  
 </p>
 
